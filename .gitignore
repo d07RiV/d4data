@@ -10,4 +10,5 @@
 dump.*.txt
 debug.*.txt
 /fix.js
-node_modules
+/node_modules
+/output
