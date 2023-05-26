@@ -1,0 +1,3 @@
+﻿*.ts
+!converter/*.ts
+!basic.ts
